@@ -1,0 +1,12 @@
+{
+    "name": "martin/oc-ssbuttons-plugin",
+    "type": "october-plugin",
+    "description": "Social Sharing Buttons for OctoberCMS",
+    "homepage": "https://octobercms.com/plugin/martin-ssbuttons",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin"
+        }
+    ]
+}
